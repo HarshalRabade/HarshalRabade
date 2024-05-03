@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/f-nICqWLnrQAAAAC/programmer-cycle.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on HRIS<br>🌱 I’m currently learning Java + DSA<br>💬 Ask me about Java , OOPS, SQL, Python<br>⚡ Fun fact i loved to gossips with friends and family.
+🔭 I’m currently working on HRIS<br>🌱 I’m currently learning Java + DSA<br>💬 Ask me about Java , OOPS, SQL, Python, Web Devlopment, Node js<br>⚡ Fun fact i loved to gossips with friends and family.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__harshal_rabade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-rabade-9b183a246) 
